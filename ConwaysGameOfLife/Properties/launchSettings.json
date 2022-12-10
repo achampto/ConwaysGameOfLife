@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConwaysGameOfLife": {
+      "commandName": "Project",
+      "commandLineArgs": "(0, 1)\r\n(1, 2)\r\n(2, 0)\r\n(2, 1)\r\n(2, 2)\r\n(-2000000000000, -2000000000000)\r\n(-2000000000001, -2000000000001)"
+    }
+  }
+}
